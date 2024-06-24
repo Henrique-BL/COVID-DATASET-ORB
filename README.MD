@@ -21,7 +21,7 @@ This project it's part of my study about image processing  and computer vision u
 
 1. ### Clone project
     ```bash
-        git clone 
+        git clone https://github.com/Henrique-BL/COVID-DATASET-ORB.git
     ```
 2. ### Install dependencies
     ```bash
