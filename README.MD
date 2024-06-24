@@ -39,7 +39,6 @@ This project it's part of my study about image processing  and computer vision u
     ```bash
         make split-images
         make extract
-        make classify
     ```    
     After this steps you'll have the features extracted and can dump all images files, they'll no longer be needed.
 
