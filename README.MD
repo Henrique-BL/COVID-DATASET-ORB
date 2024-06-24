@@ -15,7 +15,6 @@ This project it's part of my study about image processing  and computer vision u
 ## Results
 - Accuracy: 96.96%
 - Confusion Matrix
-    <img src="" alt="Description of Image">
 
 ## How to use
 
